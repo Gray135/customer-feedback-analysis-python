@@ -19,11 +19,11 @@ It uses pandas + matplotlib to clean data, visualize satisfaction trends, and fl
 
 ## Example Visuals
 1. **Distribution of Satisfaction Scores**
-    ![Satisfaction Distribution](fig_satisfaction_distribution.png)
+![Satisfaction Distribution](figures/satisfaction_scores.png)
    Shows how customer scores are spread on a 1–10 scale  
 
 2. **At-Risk Customers by Tenure Group**
-    ![Satisfaction Distribution](fig_satisfaction_distribution.png)
+![At-Risk by Tenure](figures/at_risk_customer_groups.png)
    Highlights which tenure groups have higher proportions of at-risk customers  
 
 ## Why This Matters

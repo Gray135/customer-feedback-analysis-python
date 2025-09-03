@@ -34,4 +34,4 @@ Even simple analysis can surface useful insights:
 ## How to Run
 Clone this repo, then install requirements (from VS Code or terminal):
 ```bash
-pip install pandas matplotlib
+pip install -r requirements.txt

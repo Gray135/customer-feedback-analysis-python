@@ -19,10 +19,12 @@ This project uses Python to analyze a customer engagement dataset (~4,300 rows, 
 - **matplotlib** for charts  
 
 ## Example Visuals
-1. **Distribution of Satisfaction Scores**  
+1. **Distribution of Satisfaction Scores**
+    ![Satisfaction Distribution](fig_satisfaction_distribution.png)
    Shows how customer scores are spread on a 1–10 scale  
 
-2. **At-Risk Customers by Tenure Group**  
+2. **At-Risk Customers by Tenure Group**
+    ![Satisfaction Distribution](fig_satisfaction_distribution.png)
    Highlights which tenure groups have higher proportions of at-risk customers  
 
 ## Why This Matters

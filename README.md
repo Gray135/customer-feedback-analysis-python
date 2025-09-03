@@ -1,8 +1,7 @@
-# customer-feedback-analysis-python
-Python project analyzing customer feedback and retention data. Uses pandas + matplotlib to clean data, visualize satisfaction trends, and flag at-risk customers with a simple rule.
 # Customer Feedback Analysis (Python)
 
 This project uses Python to analyze a customer engagement dataset (~4,300 rows, 50+ columns). The goal is to explore satisfaction and retention patterns, visualize trends, and create a simple rule for flagging at-risk customers.
+It uses pandas + matplotlib to clean data, visualize satisfaction trends, and flag at-risk customers with a simple rule.
 
 ## What I Did
 - Loaded the dataset from CSV into pandas  
